@@ -3,10 +3,16 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { GitSearchComponent } from './git-search/git-search.component';
+import { ProfileComponent } from './profile/profile.component';
+import { SearchComponent } from './search/search.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    GitSearchComponent,
+    ProfileComponent,
+    SearchComponent
   ],
   imports: [
     BrowserModule,
