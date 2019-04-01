@@ -17,7 +17,7 @@ export class ProfileService {
 
     constructor(private http: HttpClient){
       console.log('Github Service Ready...');
-      this.username = 'ryan';
+      this.username = 'ryancurtis998';
 
     }
     getUser(){
