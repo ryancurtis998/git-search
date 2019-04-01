@@ -1,2 +1,79 @@
-/* You can add global styles to this file, and also import other style files */
-@import "~bootstrap/dist/css/bootstrap.css"
+#img{
+    height: 60px;
+  width: 60px;
+  position: relative;
+  top: 60px;
+margin-left: 50%;
+}
+body{
+    background-image: url('https://www.lifeofpix.com/wp-content/uploads/2019/02/pf-mc11-ake3678-chim-1600x2397.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:100%;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+  }
+  table{
+    padding: 15px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  p{
+    margin-left:20%;
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 20px;
+  }
+.page{
+      background-image: URL(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPSZb0Y0mm0oS3hHJarpTj7bd4dzJbMfZhkGgEAPPMWLO_U-bVQ)
+  }
+  table{
+    position: relative;
+    top: 60%;
+    font-family: 'Fascinate Inline', cursive;
+  }
+  #table {
+    padding: 100px;
+    border-radius: 10px;
+  }
+  tr{
+    padding: 5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+   td{
+    padding: 5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  form {
+    position: relative;
+    top: 60px;
+  }
+  body {
+    background-color: URL(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPSZb0Y0mm0oS3hHJarpTj7bd4dzJbMfZhkGgEAPPMWLO_U-bVQ)
+  }
+  nav ul li a {
+    padding: 18px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    color:rgb(7, 7, 7);
+    font-family: 'Fredericka the Great', cursive;
+  }
+  nav{
+    position: relative;
+    top: 20px;
+  }
+  nav>ul>li {
+    display: inline-block;
+  }
+  nav>ul {
+    text-align: right;
+  }
