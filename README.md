@@ -1,27 +1,53 @@
 # GitSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+This project allows you to be able to search Github users
 
-## Development server
+# Demo
+Here is a live link to the webpage (https://ryancurtis998.github.io/git-search/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# BDD
+Project : Git search
 
-## Code scaffolding
+# Behavior Driven Development
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. user input github name.
+2. user can review all public github info.
+3. user input gitrepos name.
+4. user is allowed to view all repos.
 
-## Build
+# Tech
+Gitsearch was made using a number of languages and tools:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+. HTML
+. Angular cli
+. Atom text editor! This project was generated with Angular CLI version 7.1.4.
+. Prerequisites
+. Basic git knowledge
 
-## Running unit tests
+# Clone from github
+On GitHub, navigate to the main page of the repository.
+Under the repository name, click Clone or download.
+In the Clone with HTTPs section, click to copy the clone URL for the repository.
+Open Terminal.
+Change the current working directory to the location where you want the cloned directory to be made.
+Type git clone, and then paste the URL you copied in Step 2.
+Press Enter. Your local clone will be created.
+Have fun!
+### Known bug
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+repositories are visible only in the console!
 
-## Running end-to-end tests
+solution: Next update it will be visible to th user
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+# Author
+Author: Ryan owino
+Date: Sun 30 Mar 2019
+Licence
+MIT License
 
-## Further help
+Copyright (c) 2019 Ryan owino
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
