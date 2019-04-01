@@ -77,3 +77,8 @@ img {
   nav>ul {
     text-align: right;
   }
+  h6{
+    position: relative;
+    top: 20px;
+    font-family: 'Special Elite', cursive;
+  }
