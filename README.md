@@ -1,6 +1,6 @@
 # GitSearch
 
-This project allows you to be able to search Github users
+This project allows you to be able to search Github users.
 
 # Demo
 Here is a live link to the webpage (https://ryancurtis998.github.io/git-search/)
