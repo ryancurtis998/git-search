@@ -1,6 +1,3 @@
-import { NgProgressModule } from '@ngx-progressbar/core';
-import { NgProgressHttpModule } from '@ngx-progressbar/http';
-
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import {HttpClientModule} from '@angular/common/http'
@@ -32,8 +29,6 @@ const routes: Routes = [
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
-    NgProgressModule,
-    NgProgressHttpModule ,
     RouterModule.forRoot(routes)
   ],
   providers: [],
