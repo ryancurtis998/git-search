@@ -48,3 +48,25 @@ img {
     position: relative;
     top: 60px;
   }
+  body {
+    background-color: URL(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPSZb0Y0mm0oS3hHJarpTj7bd4dzJbMfZhkGgEAPPMWLO_U-bVQ)
+  }
+  nav ul li a {
+    padding: 18px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    color:rebeccapurple;
+    font-family: 'Fredericka the Great', cursive;
+  }
+  nav{
+    position: relative;
+    top: 20px;
+  }
+  nav>ul>li {
+    display: inline-block;
+  }
+  nav>ul {
+    text-align: right;
+  }
