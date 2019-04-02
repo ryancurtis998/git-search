@@ -43,7 +43,7 @@ solution: Next update it will be visible to th user
 Author: Ryan owino
 Date: Sun 30 Mar 2019
 Licence
-MIT License
+MIT License.
 
 Copyright (c) 2019 Ryan owino
 
